@@ -1,0 +1,5 @@
+{
+  "name": "Guličkové Pozadie",
+  "description": "Jednoduchá statická webová aplikácia, ktorá zobrazuje mriežku guličiek ako pozadie, podľa referenčného obrázku.",
+  "requestFramePermissions": []
+}
